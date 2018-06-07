@@ -35,11 +35,11 @@ class Header extends React.Component {
                 borderBottomRightRadius: '50%',
                 marginRight: 15
               }}
-              src="https://media-exp2.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAU3AAAAJGE1MzYxNzYzLTE1NTUtNDEyYi04MzRjLTgzZjNkOGU0MGIzNg.jpg"
+              src="https://i.imgur.com/hBjlvUi.jpg"
               width="30px"
               alt=""
             />
-            <span>AaronKlaser.com</span>
+            <span>bethschoenfeld.site</span>
           </NavLink>
           <button className="button navbar-burger" onClick={this.toggleNav}>
             <span></span>

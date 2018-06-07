@@ -11,9 +11,9 @@ import Router from './layout/Router'
 const Layout = ({ children }) => (
   <Site>
     <Helmet
-      title="Aaron is Awesome"
+      title="Beth is Awesome"
       meta={[
-        { name: 'description', content: 'Aaron Klaser\'s personal wedsite, portfolio, blog, tutorials, and just cool $h!t' },
+        { name: 'description', content: 'Beth Schoenfeld\'s personal wedsite, portfolio, blog, tutorials, and just cool $h!t' },
         { name: 'keywords', content: 'resume, blog, porfolio, tutorials, aaron klaser' },
       ]}
       script={[
